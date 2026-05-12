@@ -7,6 +7,6 @@ Code repo for WatchIt
     </head>
     <body>
         <h1>Hello, world!</h1>
-        <h2>Login to WatchIt</h2>h2>
+        <h2>Login to WatchIt</h2>
     </body>
 </html>
