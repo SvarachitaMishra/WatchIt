@@ -10,5 +10,6 @@ Code repo for WatchIt
         <h2>Login to WatchIt</h2>
         <h3>Register if you are new to WatchIt </h3>
         <h4>Skip if you don't want to register </h4>
+        <h5> Identify sensor APIs compatible with target smartwatch </h5>
     </body>
 </html>
